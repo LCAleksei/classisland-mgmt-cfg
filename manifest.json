@@ -3,18 +3,18 @@
     "OrganizationName": "⌈xjzx⌋ LC",
     "ClassPlanSource": {
         "Value": "https://raw.bgithub.xyz/LCAleksei/classisland-mgmt-cfg/master/{id}/classplans.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://raw.bgithub.xyz/LCAleksei/classisland-mgmt-cfg/master/{id}/timelayouts.json",
-        "Version": 2
+        "Version": 3
     },
     "SubjectsSource": {
         "Value": "https://raw.bgithub.xyz/LCAleksei/classisland-mgmt-cfg/master/{id}/subjects.json",
-        "Version": 2
+        "Version": 3
     },
     "PolicySource": {
-        "Value": "https://raw.bgithub.xyz/LCAleksei/classisland-mgmt-cfg/master/{id}/policy.json",
-        "Version": 2
+        "Value": "https://raw.bgithub.xyz/LCAleksei//classisland-mgmt-cfg/master/subjects.json",
+        "Version": 3
     }
 }
